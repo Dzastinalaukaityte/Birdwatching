@@ -10,7 +10,7 @@ Birdwatching.html
  <meta charset="utf-8">
  <head>
  	<title>Birdwatching</title>
- 	<link rel="stylesheet" type="text/css" href="website/css/style.css"/>
+ 	<link rel="stylesheet" type="text/css" href="style.css"/>
  <body>
  <header class="page-header">
  	<h1>BIRDWATCHING</h1>
